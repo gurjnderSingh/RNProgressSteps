@@ -1,0 +1,29 @@
+{
+  "name": "react-native-progress-steps-new",
+  "version": "1.0.5",
+  "description": "This package will show loader component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurjnderSingh/RNProgressSteps.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "stepper"
+  ],
+  "author": "Gurjinde Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurjnderSingh/RNProgressSteps/issues"
+  },
+  "homepage": "https://github.com/gurjnderSingh/RNProgressSteps#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.72.0"
+  }
+}
